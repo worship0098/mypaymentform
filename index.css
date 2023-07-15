@@ -1,0 +1,68 @@
+@media screen and (max-width: 1000px) and ( min-width:5px) {
+    body {
+      background-color: lightblue;
+      font-size: 14px;
+      font-family: Arial, Helvetica, sans-serif;
+      text-align: center;
+
+    }
+    container{
+        background-color: cadetblue;
+        font-size: 12px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     width: 800px;
+    }
+    text-area{
+       ( width: min-content:fit-content;) and ( max-width: display: ;)
+    }
+  }
+
+
+*{
+    box-sizing: border-box ;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif ;
+    margin: 15px 35px;
+    font-size: 17px;
+    padding: 8px;
+
+}
+h2{
+    align-items: center;justify-content: center;
+}
+.container{ width: 1180px;
+    background-color: #f2f2f2d0;
+    padding: 5px 20px 20px;
+    border: 3px solid gray;
+    border-radius: 4px;
+    margin: 40px auto;
+}
+input{type="text"},
+input{type=" E mail"},
+input{type="number"},
+input{type="passward"},
+input{type="date"},
+select,
+taxtarea{
+    width: 100%;
+    padding: 12px;
+ border: 12px;
+ border: redius 5%;
+ margin: 10px;
+}
+.main_heading{ 
+    text-align: center;}
+input{type"submit"}
+{ 
+    background-color:#4daea1 ;
+    color:white;
+    padding:5px 3px;
+    border: blue;
+     border-radius: 4px;
+     cursor:zoom-in;
+}
+input{ type"submit"}:hovor{
+    background-color: #444;
+}
+
